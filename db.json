@@ -19,15 +19,9 @@
       "reminder": false
     },
     {
-      "id": 85085,
-      "text": "Test 444",
-      "day": "Test 444",
-      "reminder": false
-    },
-    {
-      "id": 71203,
-      "text": "Yeah",
-      "day": "18/12/2020 15:15am",
+      "id": 49382,
+      "text": "Test 001",
+      "day": "Test 001",
       "reminder": true
     }
   ]
